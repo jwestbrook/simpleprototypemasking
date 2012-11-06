@@ -1,3 +1,9 @@
+/*
+
+ Port of autoMask - an adaption of anyMask from email kireol at yahoo.com to PrototypeJS method
+ http://github.com/jwestbrook
+ 
+*/
 if(
    (typeof Prototype=='undefined') ||
    (typeof Element == 'undefined') ||
