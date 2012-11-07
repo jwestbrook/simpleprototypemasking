@@ -8,7 +8,13 @@ Element.mask('id',<string>);
 
 The method "mask()" is added via Element.addMethods() so it is available for all Form elements.
 
-The mask string takes a combination of "#","A","*","?" characters to define the acceptable characters and the format. Any puctuation characters will be automatically added.
+The mask string takes a combination of "#","A","*" characters to define the acceptable characters and the format.
+
+# equals numbers 0-9
+A equals letters uppercase or lowercase
+* equals wildcard, any character
+
+Any puctuation characters will be automatically added.
 
 for example
 
