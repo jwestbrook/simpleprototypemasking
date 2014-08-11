@@ -53,6 +53,7 @@ $$(".phoneformat").invoke("mask","###-###-####");
 Example JSFiddle for phoneformat above
 http://jsfiddle.net/KDYan/
 
+Requires PrototypeJS 1.7.2
 
 This is a port of 
 autoMask - an adaption of anyMask from email kireol at yahoo.com
